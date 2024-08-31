@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prac_book32~")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d939dcec41953712dddc946b4edbc86655f739f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prac_book32~")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prac_book32~")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

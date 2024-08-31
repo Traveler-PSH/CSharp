@@ -12,3 +12,4 @@ C:\PSH\CSHOP\Prac_book32~\Prac_book32~\obj\Debug\net8.0\refint\Prac_book32~.dll
 C:\PSH\CSHOP\Prac_book32~\Prac_book32~\obj\Debug\net8.0\Prac_book32~.pdb
 C:\PSH\CSHOP\Prac_book32~\Prac_book32~\obj\Debug\net8.0\Prac_book32~.genruntimeconfig.cache
 C:\PSH\CSHOP\Prac_book32~\Prac_book32~\obj\Debug\net8.0\ref\Prac_book32~.dll
+C:\PSH\CSHOP\Prac_book32~\Prac_book32~\obj\Debug\net8.0\Prac_book32~.sourcelink.json
